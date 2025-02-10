@@ -3,5 +3,5 @@
 <ul>
     <li><a href="intro_to_html/index.html" target="_blank">Intro to HTML</a></li>
     <li><a href="html5_to_intro_css/index.html" target="_blank">HTML5 to Intro CSS</a></li>
-    <li></li>
+    <li><a href="photography/index.html" target="_blank">Photography</a></li>
     <li></li>
