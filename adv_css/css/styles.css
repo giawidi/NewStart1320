@@ -10,11 +10,11 @@ body {
     padding: 10px;
 }
 #banner {
-    width: 100%;
+    width: 80%;
 }
 
 .heading_style {
-    text-shadow: 2px 2px 2px #000;
+    text-shadow: 2px 2px 2px #1d1d1d;
 }
 
 img {
@@ -23,7 +23,6 @@ img {
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
-    image-align: center;
 }
 
 nav {
