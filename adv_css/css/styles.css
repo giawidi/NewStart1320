@@ -49,7 +49,6 @@ nav li a {
 }
 nav li a:hover {
     color: white;
-    background-color: none;
 }
 h1,h2,h3, footer {
     text-align: center;
