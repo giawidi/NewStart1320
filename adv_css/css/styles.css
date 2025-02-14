@@ -16,6 +16,7 @@ body {
 .heading_style {
     text-shadow: 2px 2px 2px #8282826e;
 }
+
 #two_col { 
     display: flex;
 }
