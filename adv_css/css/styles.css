@@ -23,11 +23,13 @@ body {
 #col1 {
     width: 50%;
     border: 2px solid black;
+    margin: 20px;
     padding: 10px;
 }
 #col2 {
     width: 50%;
     border: 2px solid black;
+    margin: 20px;
     padding: 10px;
 }
 img {
