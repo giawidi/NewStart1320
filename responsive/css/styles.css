@@ -127,6 +127,18 @@ img {
     footer {
         text-align: center;
         padding: 15px;
-        
+    }
+
+    hr {
+        display: none;
+    }
+
+    #multi_col {
+        display: flex;
+    }
+    .col {
+        margin: 20px;
+        padding: 20px;
+        border: 2px solid black;
     }
 }
