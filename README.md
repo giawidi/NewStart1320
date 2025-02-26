@@ -5,4 +5,5 @@
     <li><a href="html5_to_intro_css/index.html" target="_blank">HTML5 to Intro CSS</a></li>
     <li><a href="adv_css/index.html" target="_blank">Photography</a></li>
     <li><a href="responsive/index.html" target="_blank">Design</a></li>
+      <li><a href="finalproject/index.html" target="_blank">Final Project</a></li>
 </ul>
