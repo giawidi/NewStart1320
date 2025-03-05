@@ -2,6 +2,15 @@
 
 body {
     background-color: #77B9F2;
+
+.open-sans-<uniquifier> {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
 }
 
 img {
@@ -124,6 +133,12 @@ img {
         text-align: center;
         color: #77B9F2;
         text-shadow: 1px 1px 1px #545353;
+        .permanent-marker-regular {
+            font-family: "Permanent Marker", cursive;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
     }
     footer {
         text-align: center;
